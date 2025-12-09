@@ -9,7 +9,7 @@ Este portfólio demonstra minha capacidade de atuar além da automação, garant
 | Projeto | Tipo | Ferramentas | Destaques |
 | :--- | :--- | :--- | :--- |
 | **[1. E-commerce Varejo](./01-Luma-Magento-ECommerce)** | Web | Docs | Testes de fluxo de checkout e integração de pagamentos. |
-| **[2. App Financeiro](./02-Projeto-Financeiro)** | Mobile | Trello, Excel | Validação de transações e segurança de dados. |
+| **[2. App Financeiro](./02-Bugou-QA-On)** | Web/Mobile | Excel | Validação de transações e segurança de dados. |
 | **[3. Sistema de Gestão](./03-Projeto-Gestao)** | Desktop | Mantis | Regras de negócio complexas e perfis de acesso. |
 
 > *(👆 Clique nos nomes dos projetos para ver os detalhes completos)*
